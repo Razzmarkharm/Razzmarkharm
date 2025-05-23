@@ -3,7 +3,16 @@
 🎓 Diploma in Information and Communication Technology  
 🏫 Cape Peninsula University of Technology  
 📍 Based in Cape Town, South Africa  
-💻 Passionate about Web Development, Systems Design, and User-Centered Tech  
+🎓 I'm a final-year (3rd year) Information Technology student at the Cape Peninsula University of Technology (CPUT), currently specializing in systems analysis and application development.
+
+💼 I am currently completing my Work Integrated Learning (WIL) at **Plums Systems**, where I serve as a **Business Analyst**. This hands-on experience has deepened my understanding of how technical solutions align with real-world business processes.
+
+💻 My passion lies in **application development**—a dream I have nurtured since high school. From a young age, I envisioned myself building tools that solve everyday problems and improve user experiences. Today, I am proud to say that I’m living that dream.
+
+🚀 I'm constantly learning and pushing myself to grow both technically and professionally. I enjoy turning ideas into software, collaborating with others, and using technology to create impactful solutions.
+
+📫 Let’s connect: [your.email@cput.ac.za] | [LinkedIn](https://www.linkedin.com/in/yourusername) | [Portfolio Website](https://yourwebsite.com)
+ 
 📫 Reach me at: Razzmarkharm@gmail.com or 221001204@mycput.ac.za
 
 ---
