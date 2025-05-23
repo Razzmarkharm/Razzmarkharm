@@ -4,17 +4,13 @@
 🏫 Cape Peninsula University of Technology  
 📍 Based in Cape Town, South Africa  
 💻 Passionate about Web Development, Systems Design, and User-Centered Tech  
-📫 Reach me at: Razzmarkharm@gmai
-l.com or 221001204@mycput.ac.za
+📫 Reach me at: Razzmarkharm@gmail.com or 221001204@mycput.ac.za
 
 ---
 
 ## 🧾 Portfolio of Evidence: Work Readiness Training
 
 ### 💼 Career Counselling
-
-**Evidence:**  
-> [Upload and link any documents, summaries, screenshots, or notes from career counselling sessions.]
 
 **Reflection (STAR Technique):**  
 **S:** Attended career counselling sessions during Work Readiness Week.  
@@ -26,9 +22,6 @@ l.com or 221001204@mycput.ac.za
 
 ### 🧠 Skills and Interests
 
-**Evidence:**  
-> [Insert a list or table of key skills identified (technical + soft skills), or a scanned copy of your completed skills survey.]
-
 **Reflection (STAR Technique):**  
 **S:** I was tasked with assessing my existing skill set and career-related interests.  
 **T:** Identify top skills and interests to align with future goals.  
@@ -38,8 +31,6 @@ l.com or 221001204@mycput.ac.za
 ---
 
 ### 🧬 Personality Assessment
-
-**Evidence:**  
 
 **Reflection (STAR Technique):**  
 **S:** Completed a personality assessment to evaluate work-style compatibility.  
