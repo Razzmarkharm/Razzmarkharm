@@ -105,15 +105,8 @@ l.com or 221001204@mycput.ac.za
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
 ### ✨ Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn Learning: Career Journey Certificate](https://www.linkedin.com/learning/career-journey?u=2256146) 
 
 ---
 
