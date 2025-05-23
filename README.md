@@ -40,7 +40,6 @@ l.com or 221001204@mycput.ac.za
 ### 🧬 Personality Assessment
 
 **Evidence:**  
-> [Link to personality test results or screenshot + brief summary of your type/traits.]
 
 **Reflection (STAR Technique):**  
 **S:** Completed a personality assessment to evaluate work-style compatibility.  
@@ -53,7 +52,7 @@ l.com or 221001204@mycput.ac.za
 ### 📄 Curriculum Vitae (CV)
 
 **Evidence:**  
-> [Link to your uploaded CV on Google Drive or GitHub.]
+> [https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/CV%20REVIEW.docx]
 
 **Reflection (STAR Technique):**  
 **S:** Developed a professional CV as part of job readiness training.  
@@ -66,7 +65,7 @@ l.com or 221001204@mycput.ac.za
 ### 📬 CV Submission
 
 **Evidence:**  
-> [Upload screenshot of confirmation from Blackboard or employer submission.]
+> [https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/CV%20REVIEW.docx]
 
 **Reflection (STAR Technique):**  
 **S:** Required to submit CV for feedback/job application simulation.  
