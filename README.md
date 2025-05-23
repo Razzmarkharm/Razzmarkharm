@@ -1,10 +1,11 @@
-# 👋 Hi, I'm [Your Full Name]!
+# 👋 Hi, I'm Rorisang Ntelekoa
 
 🎓 Diploma in Information and Communication Technology  
 🏫 Cape Peninsula University of Technology  
 📍 Based in Cape Town, South Africa  
 💻 Passionate about Web Development, Systems Design, and User-Centered Tech  
-📫 Reach me at: [your.email@cput.ac.za]
+📫 Reach me at: Razzmarkharm@gmai
+l.com or 221001204@mycput.ac.za
 
 ---
 
