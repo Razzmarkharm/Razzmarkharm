@@ -98,7 +98,7 @@ I'm a final-year Information Technology student specializing in systems analysis
 | Project                      | Description                                      | Technologies               |
 |-----------------------------|--------------------------------------------------|----------------------------|
 | Campus Navigation App       | Helps students navigate campus efficiently       | Flutter, Google Maps API   |
-| Restaurant Automation System| Automates ordering and kitchen workflow          | React, Node.js, MongoDB    |
+| Restaurant Automation System| Automates ordering and kitchen workflow          | React, Node.js, RoomDB    |
 | University Food Delivery App| Web app for food ordering on campus              | Laravel, Vue.js, MySQL     |
 
 ---
@@ -108,7 +108,7 @@ I'm a final-year Information Technology student specializing in systems analysis
 - **Languages:** Python, JavaScript, PHP, Dart  
 - **Frameworks:** React, Laravel, Flutter, Node.js  
 - **Tools:** Git, Figma, Postman, VS Code  
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, RoomDB
 
 ---
 
@@ -124,4 +124,4 @@ I'm a final-year Information Technology student specializing in systems analysis
 
 - LinkedIn Learning: Career Journey Certificate  
 - GitHub Stats and Contributions  
-- 📌 Note: This portfolio is submitted as part of PRP370S/PRP371S/PRP372S (Project Presentation 3) for the Faculty of Informatics and Design, CPUT.
+
