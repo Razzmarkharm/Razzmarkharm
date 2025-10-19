@@ -1,80 +1,105 @@
-# 👋 Hi, I'm Rorisang Ntelekoa
+# 🧠 Digital Portfolio: Rorisang Ntelekoa
 
-🎓 Diploma in Information and Communication Technology  
-🏫 Cape Peninsula University of Technology  
-📍 Based in Cape Town, South Africa  
-🎓 I'm a final-year (3rd year) Information Technology student at the Cape Peninsula University of Technology (CPUT), currently specializing in systems analysis and application development.
-💼 I am currently completing my Work Integrated Learning (WIL) at **Plums Systems**, where I serve as a **Business Analyst**. This hands-on experience has deepened my understanding of how technical solutions align with real-world business processes.
-💻 My passion lies in **application development**—a dream I have nurtured since high school. From a young age, I envisioned myself building tools that solve everyday problems and improve user experiences. Today, I am proud to say that I’m living that dream.
-🚀 I'm constantly learning and pushing myself to grow both technically and professionally. I enjoy turning ideas into software, collaborating with others, and using technology to create impactful solutions.
-📫 Reach me at: Razzmarkharm@gmail.com or 221001204@mycput.ac.za
+## 👋 About Me
+
+🎓 **Diploma in Information and Communication Technology**  
+🏫 **Cape Peninsula University of Technology (CPUT)**  
+📍 **Cape Town, South Africa**
+
+I'm a final-year Information Technology student specializing in systems analysis and application development. Currently, I serve as a **Business Analyst** at **Plums Systems** as part of my Work Integrated Learning (WIL), where I bridge technical solutions with business needs.
+
+💻 Passionate about application development, I’ve been building tools to solve real-world problems since high school.  
+🚀 I thrive on continuous learning, collaboration, and creating impactful software.
+
+📫 **Contact:**  
+- Email: Razzmarkharm@gmail.com  
+- Student ID: 221001204@mycput.ac.za
+
 ---
 
 ## 🧾 Portfolio of Evidence: Work Readiness Training
 
-### 💼 Career Counselling
+### 💼 Career Counselling Reflection (STAR Technique)
+- **S:** Attended career counselling during Work Readiness Week  
+- **T:** Identify career paths aligned with my strengths  
+- **A:** Participated in aptitude evaluations and guided sessions  
+- **R:** Gained clarity on ICT career options and personal fit
 
-**Reflection (STAR Technique):**  
-**S:** Attended career counselling sessions during Work Readiness Week.  
-**T:** The goal was to identify career interests aligned with my technical strengths.  
-**A:** Participated in guided sessions and aptitude evaluations.  
-**R:** Gained clarity on potential ICT pathways and the importance of aligning passion with employability.
+### 🧠 Skills & Interests Reflection (STAR Technique)
+- **S:** Tasked with assessing my skills and interests  
+- **T:** Align strengths with future goals  
+- **A:** Completed self-assessments and feedback forms  
+- **R:** Identified strengths in problem-solving, teamwork, and front-end development
 
----
-
-### 🧠 Skills and Interests
-
-**Reflection (STAR Technique):**  
-**S:** I was tasked with assessing my existing skill set and career-related interests.  
-**T:** Identify top skills and interests to align with future goals.  
-**A:** Completed self-assessment surveys and feedback forms.  
-**R:** Discovered strong skills in problem-solving, teamwork, and front-end development.
-
----
-
-### 🧬 Personality Assessment
-
-**Reflection (STAR Technique):**  
-**S:** Completed a personality assessment to evaluate work-style compatibility.  
-**T:** Learn how my personality type fits into team-based and tech roles.  
-**A:** Took the MBTI or similar assessment.  
-**R:** Found I am an INFJ, which supports my tendency to focus on thoughtful, user-centered designs.
+### 🧬 Personality Assessment Reflection (STAR Technique)
+- **S:** Completed MBTI-style assessment  
+- **T:** Understand personality fit in tech roles  
+- **A:** Took the test and reviewed results  
+- **R:** INFJ type — ideal for thoughtful, user-centered design
 
 ---
 
-### 📄 Curriculum Vitae (CV)
+## 🎤 Interview Skills & Mock Interview
 
-**Evidence:**  
-> [https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/CV%20REVIEW.docx]
+### 🗣️ Interview Skills Reflection (STAR Technique)
+- **S:** Participated in mock interview prep  
+- **T:** Improve communication and confidence  
+- **A:** Practiced responses and received feedback  
+- **R:** Enhanced ability to articulate strengths and experiences
 
-**Reflection (STAR Technique):**  
-**S:** Developed a professional CV as part of job readiness training.  
-**T:** Showcase academic achievements, projects, and skills effectively.  
-**A:** Used a CV template and customized it to highlight personal strengths.  
-**R:** Finalized a job-ready CV aligned with IT industry expectations.
+### 🎥 Mock Interview Evidence
+- [Mock Interview Video](https://github.com/wil-it2025/mock-interview-Razzmarkharm)  
+- **Reflection:** Learned to handle behavioral questions and present myself professionally
 
 ---
 
-### 📬 CV Submission
+## 🌐 Professional Networking
 
-**Evidence:**  
-> [https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/CV%20REVIEW.docx]
+### 🔗 Evidence
+- [LinkedIn Profile](https://www.linkedin.com/in/rorisang-ntelekoa)  
+- [GitHub Contributions](https://github.com/Razzmarkharm)
 
-**Reflection (STAR Technique):**  
-**S:** Required to submit CV for feedback/job application simulation.  
-**T:** Ensure accurate, professional CV submission via Blackboard.  
-**A:** Uploaded the final version after peer and lecturer feedback.  
-**R:** Submission completed successfully and feedback was positive.
+### 🤝 Reflection (STAR Technique)
+- **S:** Engaged in networking during Work Readiness Week  
+- **T:** Build professional connections  
+- **A:** Created LinkedIn profile and joined tech communities  
+- **R:** Connected with peers and mentors in the ICT industry
+
+---
+
+## 🏢 Workplace Etiquette
+
+### 📋 Evidence
+- Participated in team-based projects at Plums Systems  
+- Followed professional communication protocols
+
+### 🧭 Reflection (STAR Technique)
+- **S:** Worked in a real-world business environment  
+- **T:** Demonstrate professionalism and etiquette  
+- **A:** Collaborated with teams, attended meetings, followed company norms  
+- **R:** Gained confidence in workplace behavior and expectations
+
+---
+
+## 📄 Curriculum Vitae (CV)
+
+- [CV Review Document](https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/CV%20REVIEW.docx)
+
+### 📬 CV Submission Reflection (STAR Technique)
+- **S:** Required to submit CV for feedback  
+- **T:** Showcase academic and technical strengths  
+- **A:** Customized CV using template and peer feedback  
+- **R:** Finalized a job-ready CV aligned with industry expectations
 
 ---
 
 ## 🚀 Academic Projects
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [Campus Navigation App](https://github.com/yourusername/campus-navigation-app) | Helps students navigate campus efficiently | Flutter, Google Maps API |
-| [Restaurant Automation System](https://github.com/yourusername/restaurant-automation) | Automates restaurant ordering & kitchen workflow | React, Node.js, MongoDB |
-| [University Food Delivery App](https://github.com/yourusername/uni-food-delivery) | Web app for food ordering on campus | Laravel, Vue.js, MySQL |
+| Project                      | Description                                      | Technologies               |
+|-----------------------------|--------------------------------------------------|----------------------------|
+| Campus Navigation App       | Helps students navigate campus efficiently       | Flutter, Google Maps API   |
+| Restaurant Automation System| Automates ordering and kitchen workflow          | React, Node.js, MongoDB    |
+| University Food Delivery App| Web app for food ordering on campus              | Laravel, Vue.js, MySQL     |
 
 ---
 
@@ -89,17 +114,14 @@
 
 ## 🏆 Achievements
 
-- 🥇 Completed Work Readiness Training (CPUT, 2023)
-- 🧩 Developed and presented multiple ICT capstone projects
+- 🥇 Completed Work Readiness Training (CPUT, 2023)  
+- 🧩 Developed and presented multiple ICT capstone projects  
 - 📜 In-progress: Google UX Design Certificate
 
 ---
 
-## 📈 GitHub Stats
+## ✨ Let's Connect
 
-### ✨ Let's Connect
-- [LinkedIn Learning: Career Journey Certificate](https://www.linkedin.com/learning/career-journey?u=2256146) 
-
----
-
-> 📌 **Note:** This digital portfolio is submitted as part of PRP370S/PRP371S/PRP372S (Project Presentation 3) assessment for the Faculty of Informatics and Design, CPUT.
+- LinkedIn Learning: Career Journey Certificate  
+- GitHub Stats and Contributions  
+- 📌 Note: This portfolio is submitted as part of PRP370S/PRP371S/PRP372S (Project Presentation 3) for the Faculty of Informatics and Design, CPUT.
