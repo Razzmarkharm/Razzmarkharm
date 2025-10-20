@@ -97,7 +97,7 @@ I'm a final-year Information Technology student specializing in systems analysis
 
 | Project                      | Description                                                                                     | Technologies               | Links                      |
 |------------------------------|-------------------------------------------------------------------------------------------------|----------------------------|----------------------------|
-| **Campus Navigation App**    | Mobile app helping students navigate campus buildings, find resources, and plan routes. I led the front-end development and integrated Google Maps. | Flutter, Google Maps API   | [GitHub Repo](https://github.com/yourusername/campus-navigation-app) |
+| **Campus Navigation App**    | Mobile app helping students navigate campus buildings, find resources, and plan routes. I led the front-end development and integrated Google Maps. | Flutter, Google Maps API   | [GitHub Repo](https://github.com/Razzmarkharm/Razzmarkharm.github.io/blob/main/WhatsApp%20Video%202025-10-20%20at%2015.22.29.mp4) |
 | **Tech Inventory System**    | Web-based platform allowing users to browse, manage, and purchase tech products online. I designed the product catalog and implemented secure checkout features. | React, Node.js, MongoDB    | [GitHub Repo](https://github.com/yourusername/tech-inventory-system) |
 | **University Food Delivery App** | Mobile application for campus food ordering and delivery. I built the app using Kotlin and implemented local data storage using Room. | Kotlin, Room (Android)     | [GitHub Repo](https://github.com/yourusername/food-delivery-app) 
 
