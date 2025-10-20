@@ -13,7 +13,7 @@ I'm a final-year Information Technology student specializing in systems analysis
 
 📫 **Contact:**  
 - Email: Razzmarkharm@gmail.com  
-- Student ID: 221001204@mycput.ac.za
+- Student Email: 221001204@mycput.ac.za
 
 ---
 
@@ -95,11 +95,17 @@ I'm a final-year Information Technology student specializing in systems analysis
 
 ## 🚀 Academic Projects
 
-| Project                      | Description                                      | Technologies               |
-|-----------------------------|--------------------------------------------------|----------------------------|
-| Campus Navigation App       | Helps students navigate campus efficiently       | Flutter, Google Maps API   |
-| Restaurant Automation System| Automates ordering and kitchen workflow          | React, Node.js, RoomDB    |
-| University Food Delivery App| Web app for food ordering on campus              | Laravel, Vue.js, MySQL     |
+| Project                      | Description                                                                                     | Technologies               | Links                      |
+|------------------------------|-------------------------------------------------------------------------------------------------|----------------------------|----------------------------|
+| **Campus Navigation App**    | Mobile app helping students navigate campus buildings, find resources, and plan routes. I led the front-end development and integrated Google Maps. | Flutter, Google Maps API   | [GitHub Repo](https://github.com/yourusername/campus-navigation-app) |
+| **Tech Inventory System**    | Web-based platform allowing users to browse, manage, and purchase tech products online. I designed the product catalog and implemented secure checkout features. | React, Node.js, MongoDB    | [GitHub Repo](https://github.com/yourusername/tech-inventory-system) |
+| **University Food Delivery App** | Online platform for campus food ordering and delivery. I built the Vue.js front-end and contributed to backend APIs. | Laravel, Vue.js, MySQL     | [GitHub Repo](https://github.com/yourusername/food-delivery-app) |
+
+---
+
+
+
+---
 
 ---
 
@@ -114,14 +120,17 @@ I'm a final-year Information Technology student specializing in systems analysis
 
 ## 🏆 Achievements
 
-- 🥇 Completed Work Readiness Training (CPUT, 2023)  
-- 🧩 Developed and presented multiple ICT capstone projects  
-- 📜 In-progress: Google UX Design Certificate
+- 🥇 **Completed Higher Certificate in Information and Communication Technology**  
+  Cape Peninsula University of Technology (CPUT), 2021
+
+- 🧩 **Developed and Presented Multiple ICT Capstone Projects**  
+  Demonstrated technical and teamwork skills through real-world applications.
+
+- 📜 **Google UX Design Certificate (In Progress)**  
+  Expanding expertise in user-centered design and digital product development.
 
 ---
 
 ## ✨ Let's Connect
-
-- LinkedIn Learning: Career Journey Certificate  
-- GitHub Stats and Contributions  
+  
 
