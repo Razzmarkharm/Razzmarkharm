@@ -48,7 +48,7 @@ I'm a final-year Information Technology student specializing in systems analysis
 - **R:** Enhanced ability to articulate strengths and experiences
 
 ### 🎥 Mock Interview Evidence
-- [Mock Interview Video](https://github.com/wil-it2025/mock-interview-Razzmarkharm)  
+- [Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-Razzmarkharm/blob/main/WhatsApp%20Video%202025-03-21%20at%2021.33.14.mp4)  
 - **Reflection:** Learned to handle behavioral questions and present myself professionally
 
 ---
